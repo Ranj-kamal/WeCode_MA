@@ -22,6 +22,7 @@ Ashna Salam Mhammad
 
 Avin Fateh Rasul
 
+
 Basira Tahir Ahmed
 
 Azad Khorsheed Rasheed [Github](https://github.com/azadlinavay) |  [Linkedin](https://www.linkedin.com/in/azad-linavay-6b291520b/) | [Stack Overflow](https://stackoverflow.com/users/10904019/azad-linavay) 
@@ -127,6 +128,9 @@ Karwan Msto
 Ali Farhad [Github](https://github.com/1-Ali-1/) |  [Linkedin](https://www.linkedin.com/in/ali-farhad-90b4b8198) | [Stack Overflow](https://stackoverflow.com/users/14529397/alifarhad-ali) 
 
 Ahmed Naman
+
+
+Ranj kamal kanabi [Github](https://github.com/Ranj-kamal) |  [Linkedin](https://www.linkedin.com/in/ranj-kamal-020755154/) | [Stack Overflow](https://stackoverflow.com/users/17595159/ranj-kamal)
 
 Aland Abdulmajeed
 
